@@ -1,7 +1,7 @@
 ![Header](https://github.com/ibrahimovas/ibrahimovas/blob/main/assets/Ibrahimovas_ph.png)
 
 # Hi there, I'm Samira! ✌🏻
-QA Engineer 
+QA Engineer 🚀
 
 ### Testing Documentation
 
