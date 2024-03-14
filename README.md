@@ -27,6 +27,7 @@ QA Engineer 🚀
 
 ![Xcode](https://img.shields.io/badge/XCode-black?style=for-the-badge&logo=xcode)
 ![VSCode](https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 
 ### Find me
 
